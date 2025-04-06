@@ -1,0 +1,10 @@
+/home/faridguzman/rust-planner/target/release/deps/libaws_smithy_http_tower-6bd99be6153c7e1b.rmeta: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/dispatch.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/map_request.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/parse_response.rs
+
+/home/faridguzman/rust-planner/target/release/deps/libaws_smithy_http_tower-6bd99be6153c7e1b.rlib: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/dispatch.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/map_request.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/parse_response.rs
+
+/home/faridguzman/rust-planner/target/release/deps/aws_smithy_http_tower-6bd99be6153c7e1b.d: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/dispatch.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/map_request.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/parse_response.rs
+
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/lib.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/dispatch.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/map_request.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-http-tower-0.38.0/src/parse_response.rs:

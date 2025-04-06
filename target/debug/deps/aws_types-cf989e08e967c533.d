@@ -1,0 +1,17 @@
+/home/faridguzman/rust-planner/target/debug/deps/libaws_types-cf989e08e967c533.rmeta: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/app_name.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/build_metadata.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/config.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/mod.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/credentials_impl.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/provider.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/os_shim_internal.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/region.rs /home/faridguzman/rust-planner/target/debug/build/aws-types-47abcd45ac0b7166/out/build_env.rs
+
+/home/faridguzman/rust-planner/target/debug/deps/aws_types-cf989e08e967c533.d: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/app_name.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/build_metadata.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/config.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/mod.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/credentials_impl.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/provider.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/os_shim_internal.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/region.rs /home/faridguzman/rust-planner/target/debug/build/aws-types-47abcd45ac0b7166/out/build_env.rs
+
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/lib.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/app_name.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/build_metadata.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/config.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/mod.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/credentials_impl.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/credentials/provider.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/os_shim_internal.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-0.8.0/src/region.rs:
+/home/faridguzman/rust-planner/target/debug/build/aws-types-47abcd45ac0b7166/out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.8.0
+# env-dep:OUT_DIR=/home/faridguzman/rust-planner/target/debug/build/aws-types-47abcd45ac0b7166/out

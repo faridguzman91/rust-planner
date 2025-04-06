@@ -1,0 +1,11 @@
+/home/faridguzman/rust-planner/target/release/deps/libsocket2-f4afc572180a92e6.rmeta: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs
+
+/home/faridguzman/rust-planner/target/release/deps/libsocket2-f4afc572180a92e6.rlib: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs
+
+/home/faridguzman/rust-planner/target/release/deps/socket2-f4afc572180a92e6.d: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs
+
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs:

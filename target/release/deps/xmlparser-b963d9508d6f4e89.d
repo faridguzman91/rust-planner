@@ -1,0 +1,11 @@
+/home/faridguzman/rust-planner/target/release/deps/libxmlparser-b963d9508d6f4e89.rmeta: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs
+
+/home/faridguzman/rust-planner/target/release/deps/libxmlparser-b963d9508d6f4e89.rlib: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs
+
+/home/faridguzman/rust-planner/target/release/deps/xmlparser-b963d9508d6f4e89.d: /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs /home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs
+
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs:
+/home/faridguzman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs:
