@@ -4,11 +4,19 @@ use aws_config::Config;
 use crate::model::task::{Task, TaskState};
 use log::error;
 use std::collections::HashMap;
+use std::str::FromStr;
 
 pub struct DDBRepository {
     client: Client,
     table_name: String
 }
+
+// #[derive(Debug)]
+// pub enum DDBError {
+//     AwsSdkError(String),
+//     MissingField(String),
+//     InvalidType(String),
+// }
 
 pub struct DDBError;
 
