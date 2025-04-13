@@ -13,7 +13,6 @@ use actix_web::{
 };
 use derive_more::Display;
 use serde::{Deserialize, Serialize};
-//use std::fmt::{Display, Debug};
 
 #[derive(Deserialize, Serialize)]
 pub struct TaskIdentifier {
