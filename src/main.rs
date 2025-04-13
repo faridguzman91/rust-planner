@@ -1,10 +1,9 @@
 mod api;
 mod repository;
-use:api::task::{
+use::api::task::{
     get_task
-}
+};
 
-use std::env;
 
 use actix_web::{ HttpServer, App, web::Data, middleware::Logger };
 use repository::ddb::DDBRepository;
