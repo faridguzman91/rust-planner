@@ -16,11 +16,16 @@ RUN --mount=type=bind,source=src,target=src \
     bash -c "set -e && cargo build --locked --release && cp ./target/release/${APP_NAME} /bin/server"
 
 
+ENV AWS_REGION=us-east-1
+# ENV AWS_ACCESS_KEY_ID=your_access_key_id
+# ENV AWS_SECRET_ACCESS_KEY=your_secret_access_key
+# ENV AWS_REGION=us-east-1  # Replace with your region
+
 # --- Runtime stage ---
 FROM debian:bullseye-slim AS final
 
 # Install CA certificates for HTTPS (used by AWS SDKs etc.)
-RUN apt-get update && apt-get install -y --no-install-recommends ca-certificates && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y --no-install-recommends curl ca-certificates && rm -rf /var/lib/apt/lists/*
 
 # Create a non-root user for running the app
 ARG UID=10001
