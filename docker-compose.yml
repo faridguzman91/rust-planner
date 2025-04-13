@@ -1,0 +1,9 @@
+services:
+  server:
+    volumes:
+      - ~/.aws:/nonexistent/.aws
+    build:
+      context: .
+      target: final
+    ports:
+      - 80:80
