@@ -10,7 +10,7 @@ pub enum TaskState {
     Failed
 }
 
-#[derive(Serialize)]
+#[derive(Serialize, Debug)]
 pub struct Task {
     pub user_uuid:String,
     pub task_uuid: String,
