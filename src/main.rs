@@ -1,7 +1,7 @@
 mod api;
 mod model;
 mod repository;
-use::api::task::{complete_task, fail_task, get_task, pause_task, start_task, submit_task};
+use api::task::{complete_task, fail_task, get_task, pause_task, start_task, submit_task};
 use actix_web::{middleware::Logger, web::Data, App, HttpServer};
 use repository::ddb::DDBRepository;
 
@@ -13,14 +13,14 @@ async fn main() -> std::io::Result<()> {
     env_logger::init();
 
     let config = aws_config::load_from_env().await;
-    HttpServer::new(move || {
-        let ddb_repo: DDBRepository = DDBRepository::init(String::from("task"), config.clone());
+    let ddb_repo: DDBRepository = DDBRepository::init(String::from("task"), config.clone());
+    let ddb_data = Data::new(ddb_repo);
 
-        let ddb_data = Data::new(ddb_repo);
+    HttpServer::new(move || {
         let logger = Logger::default();
         App::new()
             .wrap(logger)
-            .app_data(ddb_data)
+            .app_data(ddb_data.clone())
             .service(get_task)
             .service(submit_task)
             .service(start_task)
